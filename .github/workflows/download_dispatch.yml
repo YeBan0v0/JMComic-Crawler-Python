@@ -6,7 +6,7 @@ on:
       JM_ALBUM_IDS:
         type: string
         description: 398986（多个id用-隔开，如 '123-456-789'）
-        required: false
+        required: ture
 
       JM_PHOTO_IDS:
         type: string
